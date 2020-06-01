@@ -1,3 +1,3 @@
 # SathwickHKashyap-E-Furniture
 
-UML Diagrams of Online Furniture Shop
+UML Diagrams and Wireframes of Online Furniture Shopping
